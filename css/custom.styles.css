@@ -100,7 +100,7 @@
 }
 
 #main-content {
-	padding: 2em 1em;
+	padding-top: 2em;
 	background-color: #f1f1f1;
 }
 
@@ -121,6 +121,10 @@
 #sub-article-left h4,
 #sub-article-right h3 {
 	padding-top: 1em;
+}
+
+article p, li, i{
+    color:#666;
 }
 
 #contacts-section {
